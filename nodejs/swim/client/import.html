@@ -1,46 +1,46 @@
-<div ng-hide="views.import.hidden">
+<div>
     <div class="panel panel-default">
         <div class="panel-body">
-            <form class="form-horizontal" ng-hide="views.import.step !== 0">
+            <form class="form-horizontal" ng-hide="step !== 0">
                 <div class="form-group">
                     <label class="col-sm-2 control-label">Garmin Connect Activity ID</label>
                     <div class="col-sm-9">
-                        <input type="text" class="form-control" placeholder="ID" ng-model="views.import.activityId">
+                        <input type="text" class="form-control" placeholder="ID" ng-model="activityId">
                     </div>
                 </div>
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-9">
-                        <button type="submit" class="btn btn-primary" ng-click="views.import.showActivity()">Import</button>
+                        <button type="submit" class="btn btn-primary" ng-click="showActivity()">Import</button>
                     </div>
                 </div>
             </form>
 
-            <form class="form-horizontal" ng-hide="views.import.step !== 1">
+            <form class="form-horizontal" ng-hide="step !== 1">
                 <div class="form-group">
                     <label class="col-sm-2 control-label">Splits JSON</label>
                     <div class="col-sm-9">
-                        <input type="text" class="form-control" placeholder="{}" ng-model="views.import.splitsJson">
+                        <input type="text" class="form-control" placeholder="{}" ng-model="splitsJson">
                     </div>
                 </div>
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-9">
-                        <iframe ng-src="{{views.import.splitsUrl}}" width="100%" height="32px" frameBorder="0" scrolling="no"></iframe>
+                        <iframe ng-src="{{splitsUrl}}" width="100%" height="32px" frameBorder="0" scrolling="no"></iframe>
                     </div>
                 </div>
                 <div class="form-group">
                     <label class="col-sm-2 control-label">Activity JSON</label>
                     <div class="col-sm-9">
-                        <input type="text" class="form-control" placeholder="{}" ng-model="views.import.activityJson">
+                        <input type="text" class="form-control" placeholder="{}" ng-model="activityJson">
                     </div>
                 </div>
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-9">
-                        <iframe ng-src="{{views.import.activityUrl}}" width="100%" height="32px" frameBorder="0" scrolling="no"></iframe>
+                        <iframe ng-src="{{activityUrl}}" width="100%" height="32px" frameBorder="0" scrolling="no"></iframe>
                     </div>
                 </div>
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-9">
-                        <button type="submit" class="btn btn-primary" ng-click="views.import.import()">Import</button>
+                        <button type="submit" class="btn btn-primary" ng-click="import()">Import</button>
                     </div>
                 </div>
             </form>

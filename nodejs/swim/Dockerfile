@@ -1,4 +1,4 @@
-FROM node:0.10.38
+FROM node:5.7.0
 
 RUN apt-get update
 

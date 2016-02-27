@@ -1,0 +1,88 @@
+{
+  "activityId": 802474472,
+  "userProfileId": 4364828,
+  "isMultiSportParent": false,
+  "activityTypeDTO": {
+    "typeId": 27,
+    "typeKey": "lap_swimming",
+    "parentTypeId": 26,
+    "sortOrder": 25
+  },
+  "eventTypeDTO": {
+    "typeId": 4,
+    "typeKey": "training",
+    "sortOrder": 7
+  },
+  "accessControlRuleDTO": {
+    "typeId": 2,
+    "typeKey": "private"
+  },
+  "timeZoneUnitDTO": {
+    "unitId": 124,
+    "unitKey": "Europe/Paris",
+    "factor": 0.0,
+    "timeZone": "Europe/Paris"
+  },
+  "metadataDTO": {
+    "isOriginal": true,
+    "deviceApplicationInstallationId": 5441414,
+    "agentApplicationInstallationId": 253936,
+    "agentString": null,
+    "fileFormat": {
+      "formatId": 2,
+      "formatKey": "gpx"
+    },
+    "associatedCourseId": 2357872,
+    "lastUpdateDate": "2015-06-13T07:56:02.0",
+    "uploadedDate": "2015-06-13T07:45:15.0",
+    "videoUrl": null,
+    "hasPolyline": false,
+    "hasChartData": true,
+    "userInfoDto": {
+      "userProfilePk": 4364828,
+      "displayname": "_kyr_128_",
+      "fullname": null,
+      "profileImageUrlMedium": null,
+      "profileImageUrlSmall": null
+    },
+    "chartAvailability": {
+      "showDistance": true,
+      "showDuration": true,
+      "showMovingDuration": true,
+      "showMovingSpeed": true,
+      "showSpeed": true,
+      "showSwimCadence": true,
+      "showTimestamp": true
+    },
+    "childIds": [],
+    "manualActivity": false,
+    "gcj02": false,
+    "favorite": false,
+    "elevationCorrected": false,
+    "autoCalcCalories": false,
+    "personalRecord": false
+  },
+  "summaryDTO": {
+    "startTimeLocal": "2015-06-07T16:47:54.0",
+    "startTimeGMT": "2015-06-07T14:47:54.0",
+    "distance": 2000.0,
+    "duration": 3144.758,
+    "movingDuration": 2185.169,
+    "elapsedDuration": 3143.961,
+    "averageSpeed": 0.9150000214576721,
+    "maxSpeed": 1.2039999961853027,
+    "calories": 577.0855509042917,
+    "averageSwimCadence": 20.0,
+    "maxSwimCadence": 23.0,
+    "poolLength": 25.0,
+    "numberOfActiveLengths": 80,
+    "unitOfPoolLength": {
+      "unitId": 1,
+      "unitKey": "meter",
+      "factor": 100.0
+    },
+    "totalNumberOfStrokes": 736,
+    "averageStrokes": 9.0,
+    "averageSWOLF": 37.0
+  }
+}

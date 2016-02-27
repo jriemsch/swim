@@ -1,0 +1,2527 @@
+{
+  "activityId": null,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2015-06-13T14:05:36.0",
+      "distance": 100.0,
+      "duration": 102.477,
+      "movingDuration": 102.374,
+      "elapsedDuration": 103.0,
+      "averageSpeed": 0.9769999980926514,
+      "averageMovingSpeed": 0.9768105130543103,
+      "maxSpeed": 1.0490000247955322,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 21.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 36,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 34.0,
+      "lapIndex": 1,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:05:36.0",
+          "distance": 25.0,
+          "duration": 23.812,
+          "averageSpeed": 1.0490000247955322,
+          "maxSpeed": 1.0490000247955322,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 1,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:06:00.0",
+          "distance": 25.0,
+          "duration": 25.687,
+          "averageSpeed": 0.9729999899864197,
+          "maxSpeed": 0.9729999899864197,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 2,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:06:26.0",
+          "distance": 25.0,
+          "duration": 26.125,
+          "averageSpeed": 0.9559999704360962,
+          "maxSpeed": 0.9559999704360962,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 3,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:06:52.0",
+          "distance": 25.0,
+          "duration": 26.75,
+          "averageSpeed": 0.9340000152587891,
+          "maxSpeed": 0.9340000152587891,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 4,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:07:19.0",
+      "distance": 0.0,
+      "duration": 20.711,
+      "movingDuration": 0.0,
+      "elapsedDuration": 16.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.5625,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.8,
+      "averageSWOLF": 0.0,
+      "lapIndex": 2,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:07:19.0",
+          "duration": 20.711,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 5
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:07:40.0",
+      "distance": 100.0,
+      "duration": 105.039,
+      "movingDuration": 105.062,
+      "elapsedDuration": 126.0,
+      "averageSpeed": 0.9520000219345093,
+      "averageMovingSpeed": 0.951818958038837,
+      "maxSpeed": 1.0049999952316284,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 21.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 37,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 3,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:07:40.0",
+          "distance": 25.0,
+          "duration": 24.875,
+          "averageSpeed": 1.0049999952316284,
+          "maxSpeed": 1.0049999952316284,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 6,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:08:05.0",
+          "distance": 25.0,
+          "duration": 27.125,
+          "averageSpeed": 0.9210000038146973,
+          "maxSpeed": 0.9210000038146973,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 7,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:08:32.0",
+          "distance": 25.0,
+          "duration": 26.437,
+          "averageSpeed": 0.9449999928474426,
+          "maxSpeed": 0.9449999928474426,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 8,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:08:58.0",
+          "distance": 25.0,
+          "duration": 26.625,
+          "averageSpeed": 0.9380000233650208,
+          "maxSpeed": 0.9380000233650208,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 9,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:09:25.0",
+      "distance": 0.0,
+      "duration": 36.023,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.11111111111111,
+      "averageSWOLF": 0.0,
+      "lapIndex": 4,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:09:25.0",
+          "duration": 36.023,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 10
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:10:01.0",
+      "distance": 100.0,
+      "duration": 104.227,
+      "movingDuration": 104.249,
+      "elapsedDuration": 140.0,
+      "averageSpeed": 0.9589999914169312,
+      "averageMovingSpeed": 0.9592418102147046,
+      "maxSpeed": 1.0019999742507935,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 22.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 39,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 5,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:10:01.0",
+          "distance": 25.0,
+          "duration": 24.937,
+          "averageSpeed": 1.0019999742507935,
+          "maxSpeed": 1.0019999742507935,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 11,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:10:26.0",
+          "distance": 25.0,
+          "duration": 26.0,
+          "averageSpeed": 0.9610000252723694,
+          "maxSpeed": 0.9610000252723694,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 12,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:10:52.0",
+          "distance": 25.0,
+          "duration": 26.312,
+          "averageSpeed": 0.949999988079071,
+          "maxSpeed": 0.949999988079071,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 13,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:11:18.0",
+          "distance": 25.0,
+          "duration": 27.0,
+          "averageSpeed": 0.925000011920929,
+          "maxSpeed": 0.925000011920929,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 14,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:11:45.0",
+      "distance": 0.0,
+      "duration": 22.836,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.307692307692308,
+      "averageSWOLF": 0.0,
+      "lapIndex": 6,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:11:45.0",
+          "duration": 22.836,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 15
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:12:08.0",
+      "distance": 100.0,
+      "duration": 111.008,
+      "movingDuration": 111.373,
+      "elapsedDuration": 134.0,
+      "averageSpeed": 0.8980000019073486,
+      "averageMovingSpeed": 0.8978836792899134,
+      "maxSpeed": 0.9779999852180482,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 21.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 39,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 37.0,
+      "lapIndex": 7,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:12:08.0",
+          "distance": 25.0,
+          "duration": 25.562,
+          "averageSpeed": 0.9779999852180482,
+          "maxSpeed": 0.9779999852180482,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 16,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:12:34.0",
+          "distance": 25.0,
+          "duration": 28.812,
+          "averageSpeed": 0.8669999837875366,
+          "maxSpeed": 0.8669999837875366,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 17,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:13:03.0",
+          "distance": 25.0,
+          "duration": 27.562,
+          "averageSpeed": 0.9070000052452087,
+          "maxSpeed": 0.9070000052452087,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 18,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:13:31.0",
+          "distance": 25.0,
+          "duration": 29.437,
+          "averageSpeed": 0.8489999771118164,
+          "maxSpeed": 0.8489999771118164,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 19,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:13:59.0",
+      "distance": 0.0,
+      "duration": 61.68,
+      "movingDuration": 0.0,
+      "elapsedDuration": 19.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.3157894736842106,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.411764705882353,
+      "averageSWOLF": 0.0,
+      "lapIndex": 8,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:13:59.0",
+          "duration": 61.68,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 20
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:15:00.0",
+      "distance": 200.0,
+      "duration": 227.094,
+      "movingDuration": 227.124,
+      "elapsedDuration": 289.0,
+      "averageSpeed": 0.8809999823570253,
+      "averageMovingSpeed": 0.8805762765473875,
+      "maxSpeed": 0.9800000190734864,
+      "calories": 47.97113140271407,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 8,
+      "totalNumberOfStrokes": 79,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 38.0,
+      "lapIndex": 9,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:15:00.0",
+          "distance": 25.0,
+          "duration": 25.5,
+          "averageSpeed": 0.9800000190734864,
+          "maxSpeed": 0.9800000190734864,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 21,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:15:26.0",
+          "distance": 25.0,
+          "duration": 27.687,
+          "averageSpeed": 0.9020000100135803,
+          "maxSpeed": 0.9020000100135803,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 22,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:15:54.0",
+          "distance": 25.0,
+          "duration": 27.25,
+          "averageSpeed": 0.9169999957084657,
+          "maxSpeed": 0.9169999957084657,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 23,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:16:21.0",
+          "distance": 25.0,
+          "duration": 30.125,
+          "averageSpeed": 0.8289999961853028,
+          "maxSpeed": 0.8289999961853028,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 24,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:16:51.0",
+          "distance": 25.0,
+          "duration": 28.375,
+          "averageSpeed": 0.8809999823570253,
+          "maxSpeed": 0.8809999823570253,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 25,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:17:19.0",
+          "distance": 25.0,
+          "duration": 30.062,
+          "averageSpeed": 0.8309999704360962,
+          "maxSpeed": 0.8309999704360962,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 26,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:17:49.0",
+          "distance": 25.0,
+          "duration": 29.125,
+          "averageSpeed": 0.8579999804496765,
+          "maxSpeed": 0.8579999804496765,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 27,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:18:18.0",
+          "distance": 25.0,
+          "duration": 29.0,
+          "averageSpeed": 0.8619999885559082,
+          "maxSpeed": 0.8619999885559082,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 28,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:18:48.0",
+      "distance": 0.0,
+      "duration": 29.531,
+      "movingDuration": 0.0,
+      "elapsedDuration": 19.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.3157894736842106,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.6,
+      "averageSWOLF": 0.0,
+      "lapIndex": 10,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:18:48.0",
+          "duration": 29.531,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 29
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:19:17.0",
+      "distance": 200.0,
+      "duration": 229.438,
+      "movingDuration": 229.435,
+      "elapsedDuration": 258.0,
+      "averageSpeed": 0.8719999790191652,
+      "averageMovingSpeed": 0.8717065928397583,
+      "maxSpeed": 0.9380000233650208,
+      "calories": 47.97113140271407,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 8,
+      "totalNumberOfStrokes": 80,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 38.0,
+      "lapIndex": 11,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:19:17.0",
+          "distance": 25.0,
+          "duration": 26.625,
+          "averageSpeed": 0.9380000233650208,
+          "maxSpeed": 0.9380000233650208,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 30,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:19:44.0",
+          "distance": 25.0,
+          "duration": 28.687,
+          "averageSpeed": 0.8709999918937683,
+          "maxSpeed": 0.8709999918937683,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 31,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:20:13.0",
+          "distance": 25.0,
+          "duration": 28.5,
+          "averageSpeed": 0.8769999742507935,
+          "maxSpeed": 0.8769999742507935,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 32,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:20:42.0",
+          "distance": 25.0,
+          "duration": 29.437,
+          "averageSpeed": 0.8489999771118164,
+          "maxSpeed": 0.8489999771118164,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 33,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:21:11.0",
+          "distance": 25.0,
+          "duration": 29.187,
+          "averageSpeed": 0.8560000061988832,
+          "maxSpeed": 0.8560000061988832,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 34,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:21:40.0",
+          "distance": 25.0,
+          "duration": 29.437,
+          "averageSpeed": 0.8489999771118164,
+          "maxSpeed": 0.8489999771118164,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 35,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:22:09.0",
+          "distance": 25.0,
+          "duration": 29.25,
+          "averageSpeed": 0.8539999723434449,
+          "maxSpeed": 0.8539999723434449,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 36,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:22:38.0",
+          "distance": 25.0,
+          "duration": 28.312,
+          "averageSpeed": 0.8830000162124635,
+          "maxSpeed": 0.8830000162124635,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 37,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:23:06.0",
+      "distance": 0.0,
+      "duration": 43.313,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.666666666666666,
+      "averageSWOLF": 0.0,
+      "lapIndex": 12,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:23:06.0",
+          "duration": 43.313,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 38
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:23:50.0",
+      "distance": 400.0,
+      "duration": 471.664,
+      "movingDuration": 471.621,
+      "elapsedDuration": 515.0,
+      "averageSpeed": 0.8479999899864197,
+      "averageMovingSpeed": 0.84813864975566,
+      "maxSpeed": 0.9190000295639039,
+      "calories": 95.94226280542814,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 20.0,
+      "numberOfActiveLengths": 16,
+      "totalNumberOfStrokes": 159,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 39.0,
+      "lapIndex": 13,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:23:50.0",
+          "distance": 25.0,
+          "duration": 27.187,
+          "averageSpeed": 0.9190000295639039,
+          "maxSpeed": 0.9190000295639039,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 39,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:24:17.0",
+          "distance": 25.0,
+          "duration": 29.0,
+          "averageSpeed": 0.8619999885559082,
+          "maxSpeed": 0.8619999885559082,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 40,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:24:46.0",
+          "distance": 25.0,
+          "duration": 28.875,
+          "averageSpeed": 0.8650000095367433,
+          "maxSpeed": 0.8650000095367433,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 41,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:25:15.0",
+          "distance": 25.0,
+          "duration": 30.0,
+          "averageSpeed": 0.8330000042915344,
+          "maxSpeed": 0.8330000042915344,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 42,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:25:45.0",
+          "distance": 25.0,
+          "duration": 29.312,
+          "averageSpeed": 0.8519999980926514,
+          "maxSpeed": 0.8519999980926514,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 43,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:26:14.0",
+          "distance": 25.0,
+          "duration": 30.562,
+          "averageSpeed": 0.8180000185966492,
+          "maxSpeed": 0.8180000185966492,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 44,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:26:45.0",
+          "distance": 25.0,
+          "duration": 29.437,
+          "averageSpeed": 0.8489999771118164,
+          "maxSpeed": 0.8489999771118164,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 45,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:27:14.0",
+          "distance": 25.0,
+          "duration": 29.25,
+          "averageSpeed": 0.8539999723434449,
+          "maxSpeed": 0.8539999723434449,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 46,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:27:43.0",
+          "distance": 25.0,
+          "duration": 29.75,
+          "averageSpeed": 0.8399999737739563,
+          "maxSpeed": 0.8399999737739563,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 47,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:28:13.0",
+          "distance": 25.0,
+          "duration": 29.312,
+          "averageSpeed": 0.8519999980926514,
+          "maxSpeed": 0.8519999980926514,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 48,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:28:42.0",
+          "distance": 25.0,
+          "duration": 29.687,
+          "averageSpeed": 0.8420000076293945,
+          "maxSpeed": 0.8420000076293945,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 49,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:29:12.0",
+          "distance": 25.0,
+          "duration": 30.375,
+          "averageSpeed": 0.8230000138282776,
+          "maxSpeed": 0.8230000138282776,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 50,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:29:42.0",
+          "distance": 25.0,
+          "duration": 30.125,
+          "averageSpeed": 0.8289999961853028,
+          "maxSpeed": 0.8289999961853028,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 51,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:30:12.0",
+          "distance": 25.0,
+          "duration": 29.625,
+          "averageSpeed": 0.8429999947547913,
+          "maxSpeed": 0.8429999947547913,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 52,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:30:42.0",
+          "distance": 25.0,
+          "duration": 30.062,
+          "averageSpeed": 0.8309999704360962,
+          "maxSpeed": 0.8309999704360962,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 53,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:31:12.0",
+          "distance": 25.0,
+          "duration": 29.062,
+          "averageSpeed": 0.8600000143051147,
+          "maxSpeed": 0.8600000143051147,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 54,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:31:41.0",
+      "distance": 0.0,
+      "duration": 63.586,
+      "movingDuration": 0.0,
+      "elapsedDuration": 18.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.3888888888888888,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.73469387755102,
+      "averageSWOLF": 0.0,
+      "lapIndex": 14,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:31:41.0",
+          "duration": 63.586,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 55
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:32:45.0",
+      "distance": 100.0,
+      "duration": 117.367,
+      "movingDuration": 117.375,
+      "elapsedDuration": 181.0,
+      "averageSpeed": 0.8519999980926514,
+      "averageMovingSpeed": 0.8519701810436636,
+      "maxSpeed": 0.8999999761581421,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 17.0,
+      "maxSwimCadence": 18.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 35,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 38.0,
+      "lapIndex": 15,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:32:45.0",
+          "distance": 25.0,
+          "duration": 27.75,
+          "averageSpeed": 0.8999999761581421,
+          "maxSpeed": 0.8999999761581421,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 56,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:33:13.0",
+          "distance": 25.0,
+          "duration": 30.125,
+          "averageSpeed": 0.8289999961853028,
+          "maxSpeed": 0.8289999961853028,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 57,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:33:43.0",
+          "distance": 25.0,
+          "duration": 30.25,
+          "averageSpeed": 0.8259999752044678,
+          "maxSpeed": 0.8259999752044678,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 58,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:34:13.0",
+          "distance": 25.0,
+          "duration": 29.25,
+          "averageSpeed": 0.8539999723434449,
+          "maxSpeed": 0.8539999723434449,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 59,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:34:42.0",
+      "distance": 0.0,
+      "duration": 61.258,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.69811320754717,
+      "averageSWOLF": 0.0,
+      "lapIndex": 16,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:34:42.0",
+          "duration": 61.258,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 60
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:35:44.0",
+      "distance": 100.0,
+      "duration": 136.125,
+      "movingDuration": 136.186,
+      "elapsedDuration": 198.0,
+      "averageSpeed": 0.7340000271797179,
+      "averageMovingSpeed": 0.7342898432575327,
+      "maxSpeed": 0.7919999957084656,
+      "calories": 31.980754268476048,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 45,
+      "averageStrokes": 11.0,
+      "averageSWOLF": 45.0,
+      "lapIndex": 17,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:35:44.0",
+          "distance": 25.0,
+          "duration": 31.562,
+          "averageSpeed": 0.7919999957084656,
+          "maxSpeed": 0.7919999957084656,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 61,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:36:16.0",
+          "distance": 25.0,
+          "duration": 34.062,
+          "averageSpeed": 0.7329999804496765,
+          "maxSpeed": 0.7329999804496765,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 46.0,
+          "lengthIndex": 62,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:36:50.0",
+          "distance": 25.0,
+          "duration": 35.312,
+          "averageSpeed": 0.7070000171661376,
+          "maxSpeed": 0.7070000171661376,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 47.0,
+          "lengthIndex": 63,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:37:25.0",
+          "distance": 25.0,
+          "duration": 35.25,
+          "averageSpeed": 0.7089999914169312,
+          "maxSpeed": 0.7089999914169312,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 46.0,
+          "lengthIndex": 64,
+          "swimStroke": "BACKSTROKE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:38:00.0",
+      "distance": 0.0,
+      "duration": 45.75,
+      "movingDuration": 0.0,
+      "elapsedDuration": 27.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 0.9259259259259259,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.824561403508772,
+      "averageSWOLF": 0.0,
+      "lapIndex": 18,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:38:00.0",
+          "duration": 45.75,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 65
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:38:46.0",
+      "distance": 100.0,
+      "duration": 120.641,
+      "movingDuration": 120.687,
+      "elapsedDuration": 166.0,
+      "averageSpeed": 0.8289999961853028,
+      "averageMovingSpeed": 0.8285896818484165,
+      "maxSpeed": 0.9279999732971191,
+      "calories": 36.03801413835734,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 42,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 40.0,
+      "lapIndex": 19,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:38:46.0",
+          "distance": 25.0,
+          "duration": 32.75,
+          "averageSpeed": 0.7630000114440918,
+          "maxSpeed": 0.7630000114440918,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 44.0,
+          "lengthIndex": 66,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:39:19.0",
+          "distance": 25.0,
+          "duration": 30.25,
+          "averageSpeed": 0.8259999752044678,
+          "maxSpeed": 0.8259999752044678,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 67,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:39:49.0",
+          "distance": 25.0,
+          "duration": 30.75,
+          "averageSpeed": 0.8130000233650209,
+          "maxSpeed": 0.8130000233650209,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 68,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:40:20.0",
+          "distance": 25.0,
+          "duration": 26.937,
+          "averageSpeed": 0.9279999732971191,
+          "maxSpeed": 0.9279999732971191,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 69,
+          "swimStroke": "BREASTSTROKE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:40:46.0",
+      "distance": 0.0,
+      "duration": 48.422,
+      "movingDuration": 0.0,
+      "elapsedDuration": 20.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.25,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.836065573770492,
+      "averageSWOLF": 0.0,
+      "lapIndex": 20,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:40:46.0",
+          "duration": 48.422,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 70
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:41:35.0",
+      "distance": 100.0,
+      "duration": 107.344,
+      "movingDuration": 107.374,
+      "elapsedDuration": 156.0,
+      "averageSpeed": 0.9309999942779541,
+      "averageMovingSpeed": 0.9313241519213996,
+      "maxSpeed": 1.0019999742507935,
+      "calories": 24.1048968740006,
+      "averageSwimCadence": 21.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 38,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 21,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:41:35.0",
+          "distance": 25.0,
+          "duration": 24.937,
+          "averageSpeed": 1.0019999742507935,
+          "maxSpeed": 1.0019999742507935,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 71,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:42:00.0",
+          "distance": 25.0,
+          "duration": 27.812,
+          "averageSpeed": 0.8980000019073486,
+          "maxSpeed": 0.8980000019073486,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 72,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:42:28.0",
+          "distance": 25.0,
+          "duration": 26.875,
+          "averageSpeed": 0.9300000071525574,
+          "maxSpeed": 0.9300000071525574,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 73,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:42:55.0",
+          "distance": 25.0,
+          "duration": 27.75,
+          "averageSpeed": 0.8999999761581421,
+          "maxSpeed": 0.8999999761581421,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 74,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:43:22.0",
+      "distance": 0.0,
+      "duration": 55.594,
+      "movingDuration": 0.0,
+      "elapsedDuration": 18.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.3888888888888888,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.861538461538462,
+      "averageSWOLF": 0.0,
+      "lapIndex": 22,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:43:22.0",
+          "duration": 55.594,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 75
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:44:18.0",
+      "distance": 100.0,
+      "duration": 118.141,
+      "movingDuration": 118.187,
+      "elapsedDuration": 174.0,
+      "averageSpeed": 0.8460000157356262,
+      "averageMovingSpeed": 0.8461167725323971,
+      "maxSpeed": 1.0470000505447388,
+      "calories": 29.116806125030433,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 40,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 39.0,
+      "lapIndex": 23,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:44:18.0",
+          "distance": 25.0,
+          "duration": 34.625,
+          "averageSpeed": 0.722000002861023,
+          "maxSpeed": 0.722000002861023,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 47.0,
+          "lengthIndex": 76,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:44:53.0",
+          "distance": 25.0,
+          "duration": 24.562,
+          "averageSpeed": 1.0169999599456787,
+          "maxSpeed": 1.0169999599456787,
+          "totalNumberOfStrokes": 7,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 77,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:45:18.0",
+          "distance": 25.0,
+          "duration": 35.125,
+          "averageSpeed": 0.7110000252723694,
+          "maxSpeed": 0.7110000252723694,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 47.0,
+          "lengthIndex": 78,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:45:53.0",
+          "distance": 25.0,
+          "duration": 23.875,
+          "averageSpeed": 1.0470000505447388,
+          "maxSpeed": 1.0470000505447388,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 79,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:46:16.0",
+      "distance": 0.0,
+      "duration": 30.672,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.826086956521738,
+      "averageSWOLF": 0.0,
+      "lapIndex": 24,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:46:16.0",
+          "duration": 30.672,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 80
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:46:46.0",
+      "distance": 100.0,
+      "duration": 117.172,
+      "movingDuration": 117.249,
+      "elapsedDuration": 148.0,
+      "averageSpeed": 0.8529999852180481,
+      "averageMovingSpeed": 0.852885734901755,
+      "maxSpeed": 0.9629999995231628,
+      "calories": 30.07145550617897,
+      "averageSwimCadence": 22.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 43,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 40.0,
+      "lapIndex": 25,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:46:46.0",
+          "distance": 25.0,
+          "duration": 27.625,
+          "averageSpeed": 0.9039999842643738,
+          "maxSpeed": 0.9039999842643738,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 81,
+          "swimStroke": "BUTTERFLY"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:47:14.0",
+          "distance": 25.0,
+          "duration": 30.375,
+          "averageSpeed": 0.8230000138282776,
+          "maxSpeed": 0.8230000138282776,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 82,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:47:44.0",
+          "distance": 25.0,
+          "duration": 33.312,
+          "averageSpeed": 0.7500000000000001,
+          "maxSpeed": 0.7500000000000001,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 45.0,
+          "lengthIndex": 83,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:48:17.0",
+          "distance": 25.0,
+          "duration": 25.937,
+          "averageSpeed": 0.9629999995231628,
+          "maxSpeed": 0.9629999995231628,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 84,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:48:44.0",
+      "distance": 0.0,
+      "duration": 32.078,
+      "movingDuration": 0.0,
+      "elapsedDuration": 19.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.3157894736842106,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.876712328767123,
+      "averageSWOLF": 0.0,
+      "lapIndex": 26,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:48:44.0",
+          "duration": 32.078,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 85
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:49:16.0",
+      "distance": 100.0,
+      "duration": 119.711,
+      "movingDuration": 119.749,
+      "elapsedDuration": 151.0,
+      "averageSpeed": 0.8349999785423279,
+      "averageMovingSpeed": 0.8350800385913606,
+      "maxSpeed": 0.9150000214576721,
+      "calories": 29.116806125030433,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 40,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 40.0,
+      "lapIndex": 27,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:49:16.0",
+          "distance": 25.0,
+          "duration": 28.875,
+          "averageSpeed": 0.8650000095367433,
+          "maxSpeed": 0.8650000095367433,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 86,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:49:45.0",
+          "distance": 25.0,
+          "duration": 34.437,
+          "averageSpeed": 0.7250000238418578,
+          "maxSpeed": 0.7250000238418578,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 46.0,
+          "lengthIndex": 87,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:50:19.0",
+          "distance": 25.0,
+          "duration": 29.125,
+          "averageSpeed": 0.8579999804496765,
+          "maxSpeed": 0.8579999804496765,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 88,
+          "swimStroke": "BUTTERFLY"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:50:48.0",
+          "distance": 25.0,
+          "duration": 27.312,
+          "averageSpeed": 0.9150000214576721,
+          "maxSpeed": 0.9150000214576721,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 89,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:51:15.0",
+      "distance": 0.0,
+      "duration": 31.414,
+      "movingDuration": 0.0,
+      "elapsedDuration": 17.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.4705882352941175,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.883116883116884,
+      "averageSWOLF": 0.0,
+      "lapIndex": 28,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:51:15.0",
+          "duration": 31.414,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 90
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:51:47.0",
+      "distance": 100.0,
+      "duration": 113.125,
+      "movingDuration": 113.187,
+      "elapsedDuration": 145.0,
+      "averageSpeed": 0.8830000162124635,
+      "averageMovingSpeed": 0.8834937150697719,
+      "maxSpeed": 1.2230000495910645,
+      "calories": 29.116806125030433,
+      "averageSwimCadence": 22.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 42,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 38.0,
+      "lapIndex": 29,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "2015-06-13T14:51:47.0",
+          "distance": 25.0,
+          "duration": 28.125,
+          "averageSpeed": 0.8880000114440918,
+          "maxSpeed": 0.8880000114440918,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 91,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:52:15.0",
+          "distance": 25.0,
+          "duration": 31.25,
+          "averageSpeed": 0.800000011920929,
+          "maxSpeed": 0.800000011920929,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 43.0,
+          "lengthIndex": 92,
+          "swimStroke": "BACKSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:52:46.0",
+          "distance": 25.0,
+          "duration": 33.375,
+          "averageSpeed": 0.7490000128746033,
+          "maxSpeed": 0.7490000128746033,
+          "totalNumberOfStrokes": 13,
+          "averageSWOLF": 46.0,
+          "lengthIndex": 93,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "2015-06-13T14:53:19.0",
+          "distance": 25.0,
+          "duration": 20.437,
+          "averageSpeed": 1.2230000495910645,
+          "maxSpeed": 1.2230000495910645,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 28.0,
+          "lengthIndex": 94,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    }
+  ],
+  "eventDTOs": [
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:05:36.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:05:36.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:07:19.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:07:40.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:07:40.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:09:25.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:10:01.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:10:01.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:11:45.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:12:08.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:12:08.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:13:59.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:15:00.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:15:00.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:18:48.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:19:17.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:19:17.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:23:06.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:23:50.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:23:50.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:31:41.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:32:45.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:32:45.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:34:42.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:35:44.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:35:44.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:38:00.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:38:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:38:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:40:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:41:35.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:41:35.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:43:22.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:44:18.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:44:18.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:46:16.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:46:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:46:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:48:44.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:49:16.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:49:16.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:51:15.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:51:47.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:51:47.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2015-06-13T14:53:40.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+swim:
+  build: nodejs/swim/
+  ports:
+    - "49160:8080"
+  privileged: true
+  cap_add:
+    - ALL
+  links:
+    - mongo
+
+mongodata:
+  image: debian:wheezy
+  volumes:
+    - /data/db
+  command: true
+
+mongo:
+  image: mongo:3.0.1
+  volumes_from:
+    - mongodata
+  links:
+    - mongodata

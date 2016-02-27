@@ -1,0 +1,2838 @@
+{
+  "activityId": null,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "1990-05-17T03:38:54.0",
+      "distance": 50.0,
+      "duration": 42.719,
+      "movingDuration": 42.312,
+      "elapsedDuration": 42.0,
+      "averageSpeed": 1.180999994277954,
+      "averageMovingSpeed": 1.1816978558195546,
+      "maxSpeed": 1.2039999961853027,
+      "calories": 14.081078371940947,
+      "averageSwimCadence": 22.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 2,
+      "totalNumberOfStrokes": 16,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 33.0,
+      "lapIndex": 1,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:38:54.0",
+          "distance": 25.0,
+          "duration": 20.75,
+          "averageSpeed": 1.2039999961853027,
+          "maxSpeed": 1.2039999961853027,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 29.0,
+          "lengthIndex": 1,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:39:15.0",
+          "distance": 25.0,
+          "duration": 21.562,
+          "averageSpeed": 1.159000039100647,
+          "maxSpeed": 1.159000039100647,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 30.0,
+          "lengthIndex": 2,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:39:36.0",
+      "distance": 0.0,
+      "duration": 16.18,
+      "movingDuration": 0.0,
+      "elapsedDuration": 4.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 6.25,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.666666666666666,
+      "averageSWOLF": 33.0,
+      "lapIndex": 2,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:39:36.0",
+          "duration": 16.18,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 3
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:39:52.0",
+      "distance": 50.0,
+      "duration": 51.813,
+      "movingDuration": 51.875,
+      "elapsedDuration": 68.0,
+      "averageSpeed": 0.9629999995231628,
+      "averageMovingSpeed": 0.963855421686747,
+      "maxSpeed": 1.1039999723434448,
+      "calories": 20.047637004119313,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 2,
+      "totalNumberOfStrokes": 18,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 32.0,
+      "lapIndex": 3,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:39:52.0",
+          "distance": 25.0,
+          "duration": 29.25,
+          "averageSpeed": 0.8539999723434449,
+          "maxSpeed": 0.8539999723434449,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 4,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:40:21.0",
+          "distance": 25.0,
+          "duration": 22.625,
+          "averageSpeed": 1.1039999723434448,
+          "maxSpeed": 1.1039999723434448,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 31.0,
+          "lengthIndex": 5,
+          "swimStroke": "BREASTSTROKE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:40:44.0",
+      "distance": 0.0,
+      "duration": 25.063,
+      "movingDuration": 0.0,
+      "elapsedDuration": 6.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 4.166666666666667,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.4,
+      "averageSWOLF": 32.0,
+      "lapIndex": 4,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:40:44.0",
+          "duration": 25.063,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 6
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:41:09.0",
+      "distance": 100.0,
+      "duration": 97.305,
+      "movingDuration": 97.374,
+      "elapsedDuration": 122.0,
+      "averageSpeed": 1.0260000228881836,
+      "averageMovingSpeed": 1.026968178732203,
+      "maxSpeed": 1.1080000400543213,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 32,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 32.0,
+      "lapIndex": 5,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:41:09.0",
+          "distance": 25.0,
+          "duration": 22.562,
+          "averageSpeed": 1.1080000400543213,
+          "maxSpeed": 1.1080000400543213,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 31.0,
+          "lengthIndex": 7,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:41:32.0",
+          "distance": 25.0,
+          "duration": 24.187,
+          "averageSpeed": 1.0329999923706055,
+          "maxSpeed": 1.0329999923706055,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 8,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:41:56.0",
+          "distance": 25.0,
+          "duration": 25.25,
+          "averageSpeed": 0.9900000095367432,
+          "maxSpeed": 0.9900000095367432,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 9,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:42:21.0",
+          "distance": 25.0,
+          "duration": 25.375,
+          "averageSpeed": 0.9850000143051147,
+          "maxSpeed": 0.9850000143051147,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 10,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:42:46.0",
+      "distance": 0.0,
+      "duration": 36.258,
+      "movingDuration": 0.0,
+      "elapsedDuration": 7.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 3.571428571428572,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.222222222222221,
+      "averageSWOLF": 32.0,
+      "lapIndex": 6,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:42:46.0",
+          "duration": 36.258,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 11
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:43:23.0",
+      "distance": 100.0,
+      "duration": 101.375,
+      "movingDuration": 101.373,
+      "elapsedDuration": 138.0,
+      "averageSpeed": 0.9860000014305115,
+      "averageMovingSpeed": 0.9864559489829355,
+      "maxSpeed": 1.065999984741211,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 35,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 33.0,
+      "lapIndex": 7,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:43:23.0",
+          "distance": 25.0,
+          "duration": 23.437,
+          "averageSpeed": 1.065999984741211,
+          "maxSpeed": 1.065999984741211,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 31.0,
+          "lengthIndex": 12,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:43:46.0",
+          "distance": 25.0,
+          "duration": 25.187,
+          "averageSpeed": 0.9919999837875366,
+          "maxSpeed": 0.9919999837875366,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 13,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:44:11.0",
+          "distance": 25.0,
+          "duration": 26.187,
+          "averageSpeed": 0.9539999961853027,
+          "maxSpeed": 0.9539999961853027,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 14,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:44:37.0",
+          "distance": 25.0,
+          "duration": 26.562,
+          "averageSpeed": 0.9409999847412109,
+          "maxSpeed": 0.9409999847412109,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 15,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:45:04.0",
+      "distance": 0.0,
+      "duration": 42.563,
+      "movingDuration": 0.0,
+      "elapsedDuration": 9.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.7777777777777777,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.384615384615385,
+      "averageSWOLF": 33.0,
+      "lapIndex": 8,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:45:04.0",
+          "duration": 42.563,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 16
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:45:47.0",
+      "distance": 100.0,
+      "duration": 105.453,
+      "movingDuration": 105.498,
+      "elapsedDuration": 148.0,
+      "averageSpeed": 0.9470000267028809,
+      "averageMovingSpeed": 0.947885258096098,
+      "maxSpeed": 1.0379999876022339,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 36,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 34.0,
+      "lapIndex": 9,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:45:47.0",
+          "distance": 25.0,
+          "duration": 24.062,
+          "averageSpeed": 1.0379999876022339,
+          "maxSpeed": 1.0379999876022339,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 17,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:46:11.0",
+          "distance": 25.0,
+          "duration": 26.437,
+          "averageSpeed": 0.9449999928474426,
+          "maxSpeed": 0.9449999928474426,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 18,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:46:37.0",
+          "distance": 25.0,
+          "duration": 27.312,
+          "averageSpeed": 0.9150000214576721,
+          "maxSpeed": 0.9150000214576721,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 19,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:47:04.0",
+          "distance": 25.0,
+          "duration": 27.687,
+          "averageSpeed": 0.9020000100135803,
+          "maxSpeed": 0.9020000100135803,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 20,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:47:32.0",
+      "distance": 0.0,
+      "duration": 66.234,
+      "movingDuration": 0.0,
+      "elapsedDuration": 10.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.5,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.764705882352942,
+      "averageSWOLF": 34.0,
+      "lapIndex": 10,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:47:32.0",
+          "duration": 66.234,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 21
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:48:38.0",
+      "distance": 100.0,
+      "duration": 119.344,
+      "movingDuration": 119.375,
+      "elapsedDuration": 186.0,
+      "averageSpeed": 0.8370000123977661,
+      "averageMovingSpeed": 0.837696335078534,
+      "maxSpeed": 0.925000011920929,
+      "calories": 38.90196228180295,
+      "averageSwimCadence": 21.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 43,
+      "averageStrokes": 10.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 11,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:48:38.0",
+          "distance": 25.0,
+          "duration": 33.0,
+          "averageSpeed": 0.7570000290870667,
+          "maxSpeed": 0.7570000290870667,
+          "totalNumberOfStrokes": 12,
+          "averageSWOLF": 45.0,
+          "lengthIndex": 22,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:49:11.0",
+          "distance": 25.0,
+          "duration": 28.875,
+          "averageSpeed": 0.8650000095367433,
+          "maxSpeed": 0.8650000095367433,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 23,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:49:40.0",
+          "distance": 25.0,
+          "duration": 30.5,
+          "averageSpeed": 0.8190000057220459,
+          "maxSpeed": 0.8190000057220459,
+          "totalNumberOfStrokes": 11,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 24,
+          "swimStroke": "BREASTSTROKE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:50:11.0",
+          "distance": 25.0,
+          "duration": 27.0,
+          "averageSpeed": 0.925000011920929,
+          "maxSpeed": 0.925000011920929,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 25,
+          "swimStroke": "BREASTSTROKE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:50:38.0",
+      "distance": 0.0,
+      "duration": 90.031,
+      "movingDuration": 0.0,
+      "elapsedDuration": 9.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.7777777777777777,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.952380952380953,
+      "averageSWOLF": 35.0,
+      "lapIndex": 12,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:50:38.0",
+          "duration": 90.031,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 26
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:52:08.0",
+      "distance": 200.0,
+      "duration": 223.406,
+      "movingDuration": 223.374,
+      "elapsedDuration": 313.0,
+      "averageSpeed": 0.8949999809265137,
+      "averageMovingSpeed": 0.8953593808554906,
+      "maxSpeed": 1.0609999895095825,
+      "calories": 56.08565114247665,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 20.0,
+      "numberOfActiveLengths": 8,
+      "totalNumberOfStrokes": 71,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 13,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:52:08.0",
+          "distance": 25.0,
+          "duration": 23.562,
+          "averageSpeed": 1.0609999895095825,
+          "maxSpeed": 1.0609999895095825,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 27,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:52:32.0",
+          "distance": 25.0,
+          "duration": 27.75,
+          "averageSpeed": 0.8999999761581421,
+          "maxSpeed": 0.8999999761581421,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 28,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:53:00.0",
+          "distance": 25.0,
+          "duration": 28.75,
+          "averageSpeed": 0.8690000176429749,
+          "maxSpeed": 0.8690000176429749,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 29,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:53:29.0",
+          "distance": 25.0,
+          "duration": 28.562,
+          "averageSpeed": 0.875,
+          "maxSpeed": 0.875,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 30,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:53:58.0",
+          "distance": 25.0,
+          "duration": 28.0,
+          "averageSpeed": 0.8920000195503236,
+          "maxSpeed": 0.8920000195503236,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 31,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:54:26.0",
+          "distance": 25.0,
+          "duration": 29.625,
+          "averageSpeed": 0.8429999947547913,
+          "maxSpeed": 0.8429999947547913,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 32,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:54:56.0",
+          "distance": 25.0,
+          "duration": 29.5,
+          "averageSpeed": 0.8470000028610231,
+          "maxSpeed": 0.8470000028610231,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 33,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:55:26.0",
+          "distance": 25.0,
+          "duration": 27.625,
+          "averageSpeed": 0.9039999842643738,
+          "maxSpeed": 0.9039999842643738,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 34,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:55:51.0",
+      "distance": 0.0,
+      "duration": 67.406,
+      "movingDuration": 0.0,
+      "elapsedDuration": 9.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.7777777777777777,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.96551724137931,
+      "averageSWOLF": 35.0,
+      "lapIndex": 14,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:55:51.0",
+          "duration": 67.406,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 35
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:56:58.0",
+      "distance": 100.0,
+      "duration": 107.625,
+      "movingDuration": 107.623,
+      "elapsedDuration": 175.0,
+      "averageSpeed": 0.9290000200271606,
+      "averageMovingSpeed": 0.9291694059744107,
+      "maxSpeed": 1.0230000019073486,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 35,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 15,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:56:58.0",
+          "distance": 25.0,
+          "duration": 24.437,
+          "averageSpeed": 1.0230000019073486,
+          "maxSpeed": 1.0230000019073486,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 36,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:57:22.0",
+          "distance": 25.0,
+          "duration": 28.812,
+          "averageSpeed": 0.8669999837875366,
+          "maxSpeed": 0.8669999837875366,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 37,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:57:51.0",
+          "distance": 25.0,
+          "duration": 27.937,
+          "averageSpeed": 0.8939999938011169,
+          "maxSpeed": 0.8939999938011169,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 38,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:58:19.0",
+          "distance": 25.0,
+          "duration": 26.437,
+          "averageSpeed": 0.9449999928474426,
+          "maxSpeed": 0.9449999928474426,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 39,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:58:46.0",
+      "distance": 0.0,
+      "duration": 29.313,
+      "movingDuration": 0.0,
+      "elapsedDuration": 6.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 4.166666666666667,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.93939393939394,
+      "averageSWOLF": 35.0,
+      "lapIndex": 16,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:58:46.0",
+          "duration": 29.313,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 40
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:59:15.0",
+      "distance": 100.0,
+      "duration": 104.938,
+      "movingDuration": 104.999,
+      "elapsedDuration": 134.0,
+      "averageSpeed": 0.9520000219345093,
+      "averageMovingSpeed": 0.9523900177795649,
+      "maxSpeed": 1.0920000076293945,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 36,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 17,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T03:59:15.0",
+          "distance": 25.0,
+          "duration": 22.875,
+          "averageSpeed": 1.0920000076293945,
+          "maxSpeed": 1.0920000076293945,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 32.0,
+          "lengthIndex": 41,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T03:59:38.0",
+          "distance": 25.0,
+          "duration": 27.437,
+          "averageSpeed": 0.9110000133514404,
+          "maxSpeed": 0.9110000133514404,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 42,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:00:05.0",
+          "distance": 25.0,
+          "duration": 27.187,
+          "averageSpeed": 0.9190000295639039,
+          "maxSpeed": 0.9190000295639039,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 43,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:00:32.0",
+          "distance": 25.0,
+          "duration": 27.5,
+          "averageSpeed": 0.9089999794960022,
+          "maxSpeed": 0.9089999794960022,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 44,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:01:00.0",
+      "distance": 0.0,
+      "duration": 24.125,
+      "movingDuration": 0.0,
+      "elapsedDuration": 7.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 3.571428571428572,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.945945945945946,
+      "averageSWOLF": 35.0,
+      "lapIndex": 18,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:01:00.0",
+          "duration": 24.125,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 45
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:01:24.0",
+      "distance": 100.0,
+      "duration": 109.508,
+      "movingDuration": 109.499,
+      "elapsedDuration": 134.0,
+      "averageSpeed": 0.9129999876022339,
+      "averageMovingSpeed": 0.9132503447368159,
+      "maxSpeed": 0.9819999933242798,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 36,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 35.0,
+      "lapIndex": 19,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:01:24.0",
+          "distance": 25.0,
+          "duration": 25.437,
+          "averageSpeed": 0.9819999933242798,
+          "maxSpeed": 0.9819999933242798,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 46,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:01:49.0",
+          "distance": 25.0,
+          "duration": 27.687,
+          "averageSpeed": 0.9020000100135803,
+          "maxSpeed": 0.9020000100135803,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 47,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:02:17.0",
+          "distance": 25.0,
+          "duration": 28.0,
+          "averageSpeed": 0.8920000195503236,
+          "maxSpeed": 0.8920000195503236,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 48,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:02:45.0",
+          "distance": 25.0,
+          "duration": 28.375,
+          "averageSpeed": 0.8809999823570253,
+          "maxSpeed": 0.8809999823570253,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 49,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:03:14.0",
+      "distance": 0.0,
+      "duration": 102.367,
+      "movingDuration": 0.0,
+      "elapsedDuration": 11.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.272727272727273,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.926829268292684,
+      "averageSWOLF": 35.0,
+      "lapIndex": 20,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:03:14.0",
+          "duration": 102.367,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 50
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:04:56.0",
+      "distance": 100.0,
+      "duration": 105.711,
+      "movingDuration": 105.749,
+      "elapsedDuration": 208.0,
+      "averageSpeed": 0.9449999928474426,
+      "averageMovingSpeed": 0.9456354148081492,
+      "maxSpeed": 1.1080000400543213,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 37,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 21,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:04:56.0",
+          "distance": 25.0,
+          "duration": 22.562,
+          "averageSpeed": 1.1080000400543213,
+          "maxSpeed": 1.1080000400543213,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 31.0,
+          "lengthIndex": 51,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:05:19.0",
+          "distance": 25.0,
+          "duration": 26.937,
+          "averageSpeed": 0.9279999732971191,
+          "maxSpeed": 0.9279999732971191,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 52,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:05:46.0",
+          "distance": 25.0,
+          "duration": 27.75,
+          "averageSpeed": 0.8999999761581421,
+          "maxSpeed": 0.8999999761581421,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 53,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:06:14.0",
+          "distance": 25.0,
+          "duration": 28.5,
+          "averageSpeed": 0.8769999742507935,
+          "maxSpeed": 0.8769999742507935,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 54,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:06:42.0",
+      "distance": 0.0,
+      "duration": 20.727,
+      "movingDuration": 0.0,
+      "elapsedDuration": 10.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.5,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 22,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:06:42.0",
+          "duration": 20.727,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 55
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:07:03.0",
+      "distance": 100.0,
+      "duration": 114.266,
+      "movingDuration": 114.311,
+      "elapsedDuration": 135.0,
+      "averageSpeed": 0.8740000128746034,
+      "averageMovingSpeed": 0.8748064719607346,
+      "maxSpeed": 0.9319999814033508,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 37,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 23,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:07:03.0",
+          "distance": 25.0,
+          "duration": 26.812,
+          "averageSpeed": 0.9319999814033508,
+          "maxSpeed": 0.9319999814033508,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 56,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:07:30.0",
+          "distance": 25.0,
+          "duration": 28.062,
+          "averageSpeed": 0.8899999856948854,
+          "maxSpeed": 0.8899999856948854,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 57,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:07:58.0",
+          "distance": 25.0,
+          "duration": 29.062,
+          "averageSpeed": 0.8600000143051147,
+          "maxSpeed": 0.8600000143051147,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 58,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:08:27.0",
+          "distance": 25.0,
+          "duration": 30.375,
+          "averageSpeed": 0.8230000138282776,
+          "maxSpeed": 0.8230000138282776,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 59,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:08:57.0",
+      "distance": 0.0,
+      "duration": 48.672,
+      "movingDuration": 0.0,
+      "elapsedDuration": 12.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.0833333333333335,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 8.979591836734693,
+      "averageSWOLF": 36.0,
+      "lapIndex": 24,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:08:57.0",
+          "duration": 48.672,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 60
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:09:46.0",
+      "distance": 100.0,
+      "duration": 111.43,
+      "movingDuration": 111.437,
+      "elapsedDuration": 160.0,
+      "averageSpeed": 0.8970000147819519,
+      "averageMovingSpeed": 0.8973680481053684,
+      "maxSpeed": 0.9700000286102295,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 36,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 25,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:09:46.0",
+          "distance": 25.0,
+          "duration": 25.75,
+          "averageSpeed": 0.9700000286102295,
+          "maxSpeed": 0.9700000286102295,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 34.0,
+          "lengthIndex": 61,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:10:12.0",
+          "distance": 25.0,
+          "duration": 28.562,
+          "averageSpeed": 0.875,
+          "maxSpeed": 0.875,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 62,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:10:41.0",
+          "distance": 25.0,
+          "duration": 28.75,
+          "averageSpeed": 0.8690000176429749,
+          "maxSpeed": 0.8690000176429749,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 63,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:11:10.0",
+          "distance": 25.0,
+          "duration": 28.375,
+          "averageSpeed": 0.8809999823570253,
+          "maxSpeed": 0.8809999823570253,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 64,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:11:37.0",
+      "distance": 0.0,
+      "duration": 43.883,
+      "movingDuration": 0.0,
+      "elapsedDuration": 10.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.5,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.018867924528301,
+      "averageSWOLF": 36.0,
+      "lapIndex": 26,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:11:37.0",
+          "duration": 43.883,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 65
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:12:21.0",
+      "distance": 100.0,
+      "duration": 112.625,
+      "movingDuration": 112.687,
+      "elapsedDuration": 157.0,
+      "averageSpeed": 0.8870000243186951,
+      "averageMovingSpeed": 0.8874138378116344,
+      "maxSpeed": 0.9750000238418579,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 38,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 27,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:12:21.0",
+          "distance": 25.0,
+          "duration": 25.625,
+          "averageSpeed": 0.9750000238418579,
+          "maxSpeed": 0.9750000238418579,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 66,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:12:47.0",
+          "distance": 25.0,
+          "duration": 28.625,
+          "averageSpeed": 0.8730000257492065,
+          "maxSpeed": 0.8730000257492065,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 67,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:13:16.0",
+          "distance": 25.0,
+          "duration": 28.812,
+          "averageSpeed": 0.8669999837875366,
+          "maxSpeed": 0.8669999837875366,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 68,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:13:45.0",
+          "distance": 25.0,
+          "duration": 29.625,
+          "averageSpeed": 0.8429999947547913,
+          "maxSpeed": 0.8429999947547913,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 69,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:14:14.0",
+      "distance": 0.0,
+      "duration": 131.938,
+      "movingDuration": 0.0,
+      "elapsedDuration": 12.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 2.0833333333333335,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 28,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:14:14.0",
+          "duration": 131.938,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 70
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:16:26.0",
+      "distance": 100.0,
+      "duration": 98.563,
+      "movingDuration": 98.562,
+      "elapsedDuration": 230.0,
+      "averageSpeed": 1.0140000581741333,
+      "averageMovingSpeed": 1.0145898377842135,
+      "maxSpeed": 1.1390000581741333,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 34,
+      "averageStrokes": 8.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 29,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:16:26.0",
+          "distance": 25.0,
+          "duration": 21.937,
+          "averageSpeed": 1.1390000581741333,
+          "maxSpeed": 1.1390000581741333,
+          "totalNumberOfStrokes": 7,
+          "averageSWOLF": 29.0,
+          "lengthIndex": 71,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:16:48.0",
+          "distance": 25.0,
+          "duration": 24.375,
+          "averageSpeed": 1.024999976158142,
+          "maxSpeed": 1.024999976158142,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 72,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:17:12.0",
+          "distance": 25.0,
+          "duration": 26.375,
+          "averageSpeed": 0.9470000267028809,
+          "maxSpeed": 0.9470000267028809,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 73,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:17:38.0",
+          "distance": 25.0,
+          "duration": 25.875,
+          "averageSpeed": 0.9660000205039978,
+          "maxSpeed": 0.9660000205039978,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 35.0,
+          "lengthIndex": 74,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:18:04.0",
+      "distance": 0.0,
+      "duration": 49.0,
+      "movingDuration": 0.0,
+      "elapsedDuration": 8.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 3.125,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.01639344262295,
+      "averageSWOLF": 36.0,
+      "lapIndex": 30,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:18:04.0",
+          "duration": 49.0,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 75
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:18:53.0",
+      "distance": 200.0,
+      "duration": 244.156,
+      "movingDuration": 244.186,
+      "elapsedDuration": 293.0,
+      "averageSpeed": 0.8190000057220459,
+      "averageMovingSpeed": 0.8190477594977034,
+      "maxSpeed": 0.8980000019073486,
+      "calories": 56.08565114247665,
+      "averageSwimCadence": 19.0,
+      "maxSwimCadence": 21.0,
+      "numberOfActiveLengths": 8,
+      "totalNumberOfStrokes": 79,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 36.0,
+      "lapIndex": 31,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:18:53.0",
+          "distance": 25.0,
+          "duration": 27.812,
+          "averageSpeed": 0.8980000019073486,
+          "maxSpeed": 0.8980000019073486,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 76,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:19:21.0",
+          "distance": 25.0,
+          "duration": 29.125,
+          "averageSpeed": 0.8579999804496765,
+          "maxSpeed": 0.8579999804496765,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 77,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:19:50.0",
+          "distance": 25.0,
+          "duration": 31.5,
+          "averageSpeed": 0.7929999828338624,
+          "maxSpeed": 0.7929999828338624,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 78,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:20:22.0",
+          "distance": 25.0,
+          "duration": 31.125,
+          "averageSpeed": 0.8029999732971191,
+          "maxSpeed": 0.8029999732971191,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 79,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:20:53.0",
+          "distance": 25.0,
+          "duration": 30.75,
+          "averageSpeed": 0.8130000233650209,
+          "maxSpeed": 0.8130000233650209,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 80,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:21:24.0",
+          "distance": 25.0,
+          "duration": 31.437,
+          "averageSpeed": 0.7950000166893006,
+          "maxSpeed": 0.7950000166893006,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 81,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:21:55.0",
+          "distance": 25.0,
+          "duration": 30.812,
+          "averageSpeed": 0.8109999895095826,
+          "maxSpeed": 0.8109999895095826,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 82,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:22:26.0",
+          "distance": 25.0,
+          "duration": 31.625,
+          "averageSpeed": 0.7900000214576721,
+          "maxSpeed": 0.7900000214576721,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 42.0,
+          "lengthIndex": 83,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:22:57.0",
+      "distance": 0.0,
+      "duration": 51.969,
+      "movingDuration": 0.0,
+      "elapsedDuration": 14.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.785714285714286,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.101449275362318,
+      "averageSWOLF": 36.0,
+      "lapIndex": 32,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:22:57.0",
+          "duration": 51.969,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 84
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:23:49.0",
+      "distance": 200.0,
+      "duration": 232.445,
+      "movingDuration": 232.499,
+      "elapsedDuration": 285.0,
+      "averageSpeed": 0.8600000143051147,
+      "averageMovingSpeed": 0.8602187798244989,
+      "maxSpeed": 1.0520000457763672,
+      "calories": 56.08565114247665,
+      "averageSwimCadence": 20.0,
+      "maxSwimCadence": 22.0,
+      "numberOfActiveLengths": 8,
+      "totalNumberOfStrokes": 79,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 37.0,
+      "lapIndex": 33,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:23:49.0",
+          "distance": 25.0,
+          "duration": 23.75,
+          "averageSpeed": 1.0520000457763672,
+          "maxSpeed": 1.0520000457763672,
+          "totalNumberOfStrokes": 9,
+          "averageSWOLF": 33.0,
+          "lengthIndex": 85,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:24:13.0",
+          "distance": 25.0,
+          "duration": 28.0,
+          "averageSpeed": 0.8920000195503236,
+          "maxSpeed": 0.8920000195503236,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 38.0,
+          "lengthIndex": 86,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:24:41.0",
+          "distance": 25.0,
+          "duration": 29.187,
+          "averageSpeed": 0.8560000061988832,
+          "maxSpeed": 0.8560000061988832,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 87,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:25:10.0",
+          "distance": 25.0,
+          "duration": 29.812,
+          "averageSpeed": 0.837999999523163,
+          "maxSpeed": 0.837999999523163,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 88,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:25:40.0",
+          "distance": 25.0,
+          "duration": 30.125,
+          "averageSpeed": 0.8289999961853028,
+          "maxSpeed": 0.8289999961853028,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 89,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:26:10.0",
+          "distance": 25.0,
+          "duration": 30.375,
+          "averageSpeed": 0.8230000138282776,
+          "maxSpeed": 0.8230000138282776,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 40.0,
+          "lengthIndex": 90,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:26:40.0",
+          "distance": 25.0,
+          "duration": 30.75,
+          "averageSpeed": 0.8130000233650209,
+          "maxSpeed": 0.8130000233650209,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 91,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:27:11.0",
+          "distance": 25.0,
+          "duration": 30.5,
+          "averageSpeed": 0.8190000057220459,
+          "maxSpeed": 0.8190000057220459,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 41.0,
+          "lengthIndex": 92,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:27:42.0",
+      "distance": 0.0,
+      "duration": 113.18,
+      "movingDuration": 0.0,
+      "elapsedDuration": 13.0,
+      "averageSpeed": 0.0,
+      "averageMovingSpeed": 1.9230769230769231,
+      "maxSpeed": 0.0,
+      "averageSwimCadence": 0.0,
+      "maxSwimCadence": 0.0,
+      "numberOfActiveLengths": 0,
+      "averageStrokes": 9.168831168831169,
+      "averageSWOLF": 37.0,
+      "lapIndex": 34,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:27:42.0",
+          "duration": 113.18,
+          "averageSpeed": 0.0,
+          "maxSpeed": 0.0,
+          "lengthIndex": 93
+        }
+      ]
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:29:35.0",
+      "distance": 100.0,
+      "duration": 102.375,
+      "movingDuration": 102.436,
+      "elapsedDuration": 215.0,
+      "averageSpeed": 0.9760000109672546,
+      "averageMovingSpeed": 0.9762193264047919,
+      "maxSpeed": 1.1790000200271606,
+      "calories": 27.92349439859476,
+      "averageSwimCadence": 22.0,
+      "maxSwimCadence": 23.0,
+      "numberOfActiveLengths": 4,
+      "totalNumberOfStrokes": 38,
+      "averageStrokes": 9.0,
+      "averageSWOLF": 37.0,
+      "lapIndex": 35,
+      "lengthDTOs": [
+        {
+          "startTimeGMT": "1990-05-17T04:29:35.0",
+          "distance": 25.0,
+          "duration": 21.187,
+          "averageSpeed": 1.1790000200271606,
+          "maxSpeed": 1.1790000200271606,
+          "totalNumberOfStrokes": 8,
+          "averageSWOLF": 29.0,
+          "lengthIndex": 94,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:29:56.0",
+          "distance": 25.0,
+          "duration": 25.687,
+          "averageSpeed": 0.9729999899864197,
+          "maxSpeed": 0.9729999899864197,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 36.0,
+          "lengthIndex": 95,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:30:22.0",
+          "distance": 25.0,
+          "duration": 28.5,
+          "averageSpeed": 0.8769999742507935,
+          "maxSpeed": 0.8769999742507935,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 39.0,
+          "lengthIndex": 96,
+          "swimStroke": "FREESTYLE"
+        },
+        {
+          "startTimeGMT": "1990-05-17T04:30:51.0",
+          "distance": 25.0,
+          "duration": 27.062,
+          "averageSpeed": 0.9229999780654907,
+          "maxSpeed": 0.9229999780654907,
+          "totalNumberOfStrokes": 10,
+          "averageSWOLF": 37.0,
+          "lengthIndex": 97,
+          "swimStroke": "FREESTYLE"
+        }
+      ]
+    }
+  ],
+  "eventDTOs": [
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:38:54.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:38:54.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:39:36.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:39:52.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:39:52.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:40:44.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:41:09.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:41:09.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:42:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:43:23.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:43:23.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:45:04.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:45:47.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:45:47.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:47:32.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:48:38.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:48:38.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:50:38.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:52:08.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:52:08.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:55:51.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:56:58.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:56:58.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:58:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:59:15.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T03:59:15.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:01:00.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:01:24.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:01:24.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:03:14.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:04:56.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:04:56.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:06:42.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:07:03.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:07:03.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:08:57.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:09:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:09:46.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:11:37.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:12:21.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:12:21.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:14:14.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:16:25.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:16:25.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:18:04.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:18:53.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:18:53.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:22:57.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:23:49.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:23:49.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:27:42.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:29:35.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "1990-05-17T04:29:35.0",
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}

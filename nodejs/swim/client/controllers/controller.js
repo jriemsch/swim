@@ -1,20 +1,4 @@
-var myApp = angular.module('SwimApp', ['ui.bootstrap'])
-    .filter('duration', function () {
-        return function (duration) {
-            if (duration) {
-                var hours = Math.floor(duration % (3600 * 24) / 3600);
-                var mins = Math.floor(duration % 3600 / 60);
-                var secs = Math.floor(duration % 60);
-                var msec = Math.floor(duration * 1000 % 1000);
-                var withoutHours = (mins < 10 ? '0' : '') + mins + ':' + (secs < 10 ? '0' : '') + secs + ',' + (msec < 100 ? '0' : '') + (msec < 10 ? '0' : '') + msec;
-                return hours > 0 ? hours + ':' + withoutHours : withoutHours;
-            }
-            return '';
-        };
-    });
-
-myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
-    function ($scope, $http, $sce) {
+angular.module('SwimApp').controller('SwimCtrl', ['$scope', 'swim', '$sce', function ($scope, swim, $sce) {
         $scope.views = {
             stats: createStatsView(),
             graph: createGraphView(),
@@ -53,7 +37,7 @@ myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
 
             view.show = function () {
                 showView(view);
-                $http.get('/besttimes').success(function (bestTimes) {
+                swim.getBestTimes().success(function (bestTimes) {
                     view.bestTimes = bestTimes;
                 });
             };
@@ -61,7 +45,7 @@ myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
             view.showBestTimes = function (bestTime) {
                 view.bestTime = bestTime;
                 view.bestTimeHistory = [];
-                $http.get('/besttimes/' + bestTime._id.strokeType + '/' + bestTime._id.distance + '?limit=50').success(function (bestTimeHistory) {
+                swim.getBestTimesByStrokeAndDistance(bestTime._id.strokeType, bestTime._id.distance).success(function (bestTimeHistory) {
                     view.bestTimeHistory = bestTimeHistory;
                 });
             };
@@ -76,7 +60,7 @@ myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
 
             view.show = function () {
                 showView(view);
-                $http.get('/trainings').success(function (trainings) {
+                swim.getTrainings().success(function (trainings) {
                     view.trainings = [];
                     var last = null;
                     var trainingsOfTheWeek = [];
@@ -109,7 +93,7 @@ myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
             view.toggleIntervals = function (training) {
                 training.intervalsHidden = !training.intervalsHidden;
                 if (!training.intervalsHidden) {
-                    $http.get('/trainings/' + training._id + '/intervals').success(function (intervals) {
+                    swim.getIntervalsByTraining(training).success(function (intervals) {
                         training.intervals = [];
                         var setIdx = 1;
                         var intervalIdx = 0;
@@ -157,8 +141,7 @@ myApp.controller('SwimCtrl', ['$scope', '$http', '$sce',
 
             view.import = function () {
                 ++view.step;
-                var json = '{"activity":' + view.activityJson + ', "splits":' + view.splitsJson + '}';
-                $http.put('/trainings', json).success(function () {
+                swim.importTraining(view.activityJson, view.splitsJson).success(function () {
                     resetView();
                 });
             };

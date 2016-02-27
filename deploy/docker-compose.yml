@@ -1,5 +1,5 @@
 swim:
-  build: nodejs/swim/
+  image: jriemsch/swim
   ports:
     - "49160:8080"
   privileged: true

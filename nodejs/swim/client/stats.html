@@ -1,0 +1,30 @@
+<div>
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    <div class="col-sm-4">
+                        <select class="form-control" ng-model="selectedBestTime" ng-options="bestTime._id.distance group by bestTime._id.strokeType for bestTime in bestTimes" ng-change="showBestTimes(selectedBestTime)">
+                            <option value="">Select Type And Distance</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group" ng-hide="bestTime === ''">
+                    <div class="col-sm-4">
+                        All Time Best: {{bestTime.best | duration}}
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="panel panel-default" ng-hide="bestTime === ''">
+        <div class="panel-body">
+            <div class="graphbararea">
+                <div class="graphbaralign"></div>
+                <div class="mark graphbar" ng-repeat="entry in bestTimeHistory" ng-style="{height: entry.duration / bestTime.worst * 100 + '%'}" tooltip="{{entry.duration | duration}} - {{entry._id | date: 'dd.MM.yyyy'}}"></div>
+            </div>
+        </div>
+    </div>
+</div>
